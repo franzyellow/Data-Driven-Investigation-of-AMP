@@ -1,6 +1,6 @@
-This project is a backup space for the final report of the data-driven investigation into the "Asiatic Mode of Production" concept.
-The report, along with all files linked / included in it, are stored here.
-The report is to fulfill a partial requirement of the 2024 Data-Driven History of Idea course at the University of Amsterdam.
+This project is a backup space for the final report of the data-driven investigation into the "Asiatic Mode of Production" concept.\\
+The report, along with all files linked / included in it, are stored here.\\
+The report is to fulfill a partial requirement of the 2024 Data-Driven History of Idea course at the University of Amsterdam.\\
 
 'AMP Ground Truth workflow.png': The complete ideal workflow for the AMP Ground Truth construction, primarily for the general RQ (1).
 'AMP pdftotext PDF extraction.ipynb': Codes based on pdftotext package to extract full texts from PDF files collected in JSTOR manual search.
