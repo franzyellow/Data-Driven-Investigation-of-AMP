@@ -1,8 +1,8 @@
 # Data-Driven Investigation into the "Asiatic Mode of Production"
 
-This project is a backup space for the final report of the data-driven investigation into the "Asiatic Mode of Production" concept.  
-The report, along with all files linked / included in it, are stored here.  
-The report is to fulfill a partial requirement of the 2024 Data-Driven History of Idea course at the University of Amsterdam.
+- This project is a backup space for the final report of the data-driven investigation into the "Asiatic Mode of Production" concept.  
+- The report, along with all files linked / included in it, are stored here.  
+- The report is to fulfill a partial requirement of the 2024 Data-Driven History of Idea course at the University of Amsterdam.
 
 ## Report
 
