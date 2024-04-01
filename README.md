@@ -14,10 +14,10 @@
 
 - [General RQ 1.png]: The workflow finished in the final report regarding the General Research Question (1).
 - [General RQ2 final.drawio.png]: The workflow finished in the final report regarding the General Research Question (2).
-
+- [AMP Ground Truth workflow.png]: The complete ideal workflow for the AMP Ground Truth construction, primarily for the general RQ (1).
 ### Code and Data Files
 
-- [AMP Ground Truth workflow.png](AMP%20Ground%20Truth%20workflow.png): The complete ideal workflow for the AMP Ground Truth construction, primarily for the general RQ (1).
+
 - [AMP pdftotext PDF extraction.ipynb](AMP%20pdftotext%20PDF%20extraction.ipynb): Codes based on pdftotext package to extract full texts from PDF files collected in JSTOR manual search.
 - [AMP- Borb PDF extraction.ipynb](AMP-%20Borb%20PDF%20extraction.ipynb): Early efforts of extracting full texts from PDF using the Borb module.
 - [AMP-EN jsonl extraction.ipynb](AMP-EN%20jsonl%20extraction.ipynb): A Python script to extract entries in a jsonl file into individual txt files.
